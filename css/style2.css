@@ -37,6 +37,13 @@ ul li{list-style: none;}
 img{vertical-align: top;}
 
 h1,h2,h3,h4,h5,h6{font-size: inherit;font-weight: 400;}
+@font-face {
+  
+  font-family: "fantasy"; 
+  src: url("Fairy Cottage.ttf") format("truetype"); 
+  font-style: normal; 
+  font-weight: normal; 
+} 
 
 body{
     background-color: pink;
