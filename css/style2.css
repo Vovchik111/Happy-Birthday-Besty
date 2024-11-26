@@ -52,7 +52,7 @@ body{
     margin-left: -50px;
     text-align: center;
     font-size: 8px;
-    font-family: "fantasy";
+    font-family: "fantasy", sans-serif;
     text-shadow: 0.5px 0.5px 0px black;
     color: rgb(255, 204, 212);
     border-radius: 10px;
@@ -71,7 +71,7 @@ body{
 p{
     color: white;
     font-size: 12px;
-    font-family: "fantasy";
+    font-family: "fantasy", sans-serif;
     text-shadow:0.5px 0.5px 0px black;
     text-align: center;
 
