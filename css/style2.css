@@ -287,6 +287,5 @@ p{
   src: url("FairyCottage.ttf") format("truetype")
        url('FairyCottage.woff2') format('woff2'),
        url('FairyCottage.woff') format('woff'),; 
-  font-style: normal; 
-  font-weight: normal; 
+  
 } 
