@@ -286,6 +286,7 @@ p{
   font-family: "fantasy"; 
   src: url("FairyCottage.ttf") format("truetype")
        url('FairyCottage.woff2') format('woff2'),
-       url('FairyCottage.woff') format('woff'),; 
+       url('FairyCottage.woff') format('woff'),
+       url('FairyCottage.svg') format('svg'); 
   font-weight: normal;
 } 
