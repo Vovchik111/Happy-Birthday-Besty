@@ -198,9 +198,9 @@ p{
     padding: 5px;
     width: 200px;
     height: auto;
-    background-color: rgb(199, 197, 197);
+    background-color: rgb(255, 225, 251);
     position: absolute;
-    top: 320px;
+    top: 340px;
     left: 50%;
     margin-left: -100px;
     opacity: 0;
